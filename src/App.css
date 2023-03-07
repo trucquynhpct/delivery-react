@@ -17,12 +17,15 @@
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
-.jumbotron {
+.header {
     padding:70px 30px 70px 30px;
     margin:0px auto;
     background: #9575CD ;
+    background-size: 100%;
     color:floralwhite;
+    
 }
+
 
 
 address{
@@ -35,3 +38,26 @@ address{
 .navbar-dark {
     background-color: #512DA8;
 }
+.blockquote-footer {
+    padding-top: 10px;
+}
+.col-12 mt-5{
+    overflow-x:hiden;
+ 
+}
+.media {
+   display: flex;
+   margin-right: 50px;
+   
+    align-items: center;
+  }
+  
+  .media img {
+    margin-right: 1rem;
+    width: 100px;
+    height: 100px;
+    
+    
+  }
+ 
+
